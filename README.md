@@ -1,7 +1,3 @@
-#LeX
-
-Práctica 2 de Modelos de Computación.
-
 Creador de estilos propios para C y C++.
 
 Uso: tras programar la plantilla, ejecutar script modificado previamente para "maquetar" nuestro código.
